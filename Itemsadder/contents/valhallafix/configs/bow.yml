@@ -1,0 +1,19 @@
+info:
+  namespace: valhallafix
+items:
+  skillicon_archery:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: BOW
+      model_id: 1
+      generate: false
+      model_path: item/gui/skillicon_archery
+  royal_bow:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: BOW
+      model_id: 1981900
+      generate: false
+      model_path: item/weapons/royal_bow

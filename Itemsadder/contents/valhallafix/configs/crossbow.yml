@@ -1,0 +1,11 @@
+info:
+  namespace: valhallafix
+items:
+  royal_bow:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: CROSSBOW
+      model_id: 1981900
+      generate: false
+      model_path: item/weapons/royal_crossbow
