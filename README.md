@@ -19,7 +19,9 @@ Compatible with ValhallaMMO Premium and ValhallaTrinkets, as well as Piles if yo
 
 - Get the correctly versioned and modified resource pack from the repository's root directory, then load it in the game above `generated.zip` **(RECOMMENDED)**
 
-- **OR** Modify the ValhallaMMO resource pack by deleting all files in the `assets/minecraft/items` directory, then load it in the game above `generated.zip`
+- **OR** Modify the ValhallaMMO resource pack by deleting all files in the `assets/minecraft/items`* directory, then load it in the game above `generated.zip`
+
+- - (*: In versions 1.21.3 and below, it's `assets/minecraft/models/item/*.json` and do not delete the contents of other folders in the same directory)
 
 3. That's it! Now you can freely create any items without worrying about texture conflicts with ValhallaMMO
 
