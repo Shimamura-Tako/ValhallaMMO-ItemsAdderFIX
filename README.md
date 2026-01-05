@@ -1,4 +1,4 @@
-# ValhallaMMO-ItemsadderFIX
+# ValhallaMMO-ItemsAdderFIX
 Make your ValhallaMMO resource pack no longer conflict with ItemsAdder.
 
 [[中文文档]](README_zhcn.md)
